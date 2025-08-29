@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	justify-content:space-between;
-	flex-wrap:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 	color:white;
 }
 .item{
